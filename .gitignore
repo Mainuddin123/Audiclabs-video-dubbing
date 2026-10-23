@@ -1,0 +1,20 @@
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+
+# Keep the example configuration
+!.env.example
+
+# Generated processing files
+outputs/*
+!outputs/.gitkeep
+
+# Local development files
+.streamlit/secrets.toml
