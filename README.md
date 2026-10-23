@@ -4,7 +4,11 @@
 
 An AI-powered video dubbing application that translates spoken dialogue into a target language, generates dubbed speech, synchronizes the new audio with the original video, and produces translated subtitles.
 
+<<<<<<< HEAD
 **Developer:** Khaja Mainuddin
+=======
+**Developer:** Khaja Mainuddin  
+>>>>>>> origin/main
 **Repository:** https://github.com/Mainuddin123/Audiclabs-video-dubbing
 
 ---
@@ -279,6 +283,7 @@ The project submission is intended to include:
 - A 1–2 page project write-up containing methodology, results, limitations, and reproducible metrics
 
 ## Author
+
 
 **Khaja Mainuddin**
 GitHub: https://github.com/Mainuddin123
